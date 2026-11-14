@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://arduinosparacatu.github.io/sitemap.xml
